@@ -555,7 +555,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
@@ -567,7 +567,7 @@
             },
             "id": "331e1746-1fe2-4e42-8ac8-d9b3b4ede31e",
             "labels": [
-              "Data Flow"
+              ""
             ],
             "source": {
               "x": 610,
@@ -576,7 +576,8 @@
             "target": {
               "x": 610,
               "y": 330
-            }
+            },
+            "vertices": []
           },
           {
             "position": {
@@ -623,6 +624,6 @@
     ],
     "diagramTop": 1,
     "reviewer": "",
-    "threatTop": 15
+    "threatTop": 17
   }
 }
