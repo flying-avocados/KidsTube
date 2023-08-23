@@ -31,15 +31,15 @@
                 "text": "Child"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
             "visible": true,
             "shape": "actor",
-            "id": "b3b1e834-4137-4520-a947-c76d1e7c609f",
             "zIndex": 1,
+            "id": "b3b1e834-4137-4520-a947-c76d1e7c609f",
             "data": {
               "type": "tm.Actor",
               "name": "Child",
@@ -47,8 +47,22 @@
               "outOfScope": false,
               "reasonOutOfScope": "",
               "providesAuthentication": false,
-              "hasOpenThreats": false,
-              "threats": []
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "id": "cd1c0c30-ae27-4f8d-96bb-ccae80eea76d",
+                  "title": "New LINDDUN threat",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": true,
+                  "number": 0,
+                  "score": ""
+                }
+              ]
             }
           },
           {
@@ -65,15 +79,15 @@
                 "text": "Parent"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
             "visible": true,
             "shape": "actor",
-            "id": "aca08fdf-7c4a-4f2a-ac0a-c7dfb1f36bfc",
             "zIndex": 2,
+            "id": "aca08fdf-7c4a-4f2a-ac0a-c7dfb1f36bfc",
             "data": {
               "type": "tm.Actor",
               "name": "Parent",
@@ -81,8 +95,22 @@
               "outOfScope": false,
               "reasonOutOfScope": "",
               "providesAuthentication": false,
-              "hasOpenThreats": false,
-              "threats": []
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "id": "e986b38d-68b4-41c3-855a-77743fc3a0a0",
+                  "title": "New LINDDUN threat",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 13,
+                  "score": ""
+                }
+              ]
             }
           },
           {
@@ -99,11 +127,13 @@
                 "text": "Allowed Movie List"
               },
               "topLine": {
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               },
               "bottomLine": {
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
@@ -121,8 +151,22 @@
               "storesCredentials": false,
               "isEncrypted": false,
               "isSigned": false,
-              "hasOpenThreats": false,
-              "threats": []
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "id": "770b1b8f-2f80-4413-b823-8b45059435fe",
+                  "title": "New LINDDUN threat",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 14,
+                  "score": ""
+                }
+              ]
             }
           },
           {
@@ -139,15 +183,15 @@
                 "text": "Streaming\nPlatform"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
             "visible": true,
             "shape": "process",
-            "id": "735d4d03-fa2f-4d47-a37e-d2f972774957",
             "zIndex": 5,
+            "id": "735d4d03-fa2f-4d47-a37e-d2f972774957",
             "data": {
               "type": "tm.Process",
               "name": "Streaming\nPlatform",
@@ -155,8 +199,22 @@
               "outOfScope": false,
               "reasonOutOfScope": "",
               "privilegeLevel": "",
-              "hasOpenThreats": false,
-              "threats": []
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "id": "7bc17f93-498f-4fba-b47f-c1d0a366a4b9",
+                  "title": "New LINDDUN threat",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 8,
+                  "score": ""
+                }
+              ]
             }
           },
           {
@@ -173,15 +231,15 @@
                 "text": "Approval \nService"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
             "visible": true,
             "shape": "process",
-            "id": "9070f748-d9bc-40f7-a6fa-91f51dc49351",
             "zIndex": 6,
+            "id": "9070f748-d9bc-40f7-a6fa-91f51dc49351",
             "data": {
               "type": "tm.Process",
               "name": "Approval \nService",
@@ -189,8 +247,22 @@
               "outOfScope": false,
               "reasonOutOfScope": "",
               "privilegeLevel": "",
-              "hasOpenThreats": false,
-              "threats": []
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "id": "1b230e9e-c4e8-4461-8edc-4691ca63609d",
+                  "title": "New LINDDUN threat",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 10,
+                  "score": ""
+                }
+              ]
             }
           },
           {
@@ -488,44 +560,6 @@
               "hasOpenThreats": false,
               "threats": []
             },
-            "id": "331e1746-1fe2-4e42-8ac8-d9b3b4ede31e",
-            "source": {
-              "x": 610,
-              "y": 400
-            },
-            "target": {
-              "x": 610,
-              "y": 330
-            }
-          },
-          {
-            "shape": "flow",
-            "attrs": {
-              "line": {
-                "stroke": "#333333",
-                "strokeWidth": 1,
-                "targetMarker": {
-                  "name": "classic"
-                },
-                "strokeDasharray": null
-              }
-            },
-            "width": 200,
-            "height": 100,
-            "zIndex": 10,
-            "connector": "smooth",
-            "data": {
-              "type": "tm.Flow",
-              "name": "Data Flow",
-              "description": "",
-              "outOfScope": false,
-              "reasonOutOfScope": "",
-              "protocol": "",
-              "isEncrypted": false,
-              "isPublicNetwork": false,
-              "hasOpenThreats": false,
-              "threats": []
-            },
             "id": "72076541-bc41-4c21-be9a-059552e898f1",
             "source": {
               "x": 340,
@@ -576,6 +610,47 @@
             }
           },
           {
+            "shape": "flow",
+            "attrs": {
+              "line": {
+                "stroke": "#333333",
+                "strokeWidth": 1,
+                "targetMarker": {
+                  "name": "classic"
+                },
+                "strokeDasharray": null
+              }
+            },
+            "width": 200,
+            "height": 100,
+            "zIndex": 10,
+            "connector": "smooth",
+            "data": {
+              "type": "tm.Flow",
+              "name": "Data Flow",
+              "description": "",
+              "outOfScope": false,
+              "reasonOutOfScope": "",
+              "protocol": "",
+              "isEncrypted": false,
+              "isPublicNetwork": false,
+              "hasOpenThreats": false,
+              "threats": []
+            },
+            "id": "331e1746-1fe2-4e42-8ac8-d9b3b4ede31e",
+            "source": {
+              "x": 610,
+              "y": 400
+            },
+            "target": {
+              "x": 610,
+              "y": 330
+            },
+            "labels": [
+              "Data Flow"
+            ]
+          },
+          {
             "position": {
               "x": 541.25,
               "y": 420
@@ -589,11 +664,13 @@
                 "text": "Movies"
               },
               "topLine": {
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               },
               "bottomLine": {
-                "strokeWidth": 1,
+                "stroke": "red",
+                "strokeWidth": 3,
                 "strokeDasharray": null
               }
             },
@@ -611,8 +688,35 @@
               "storesCredentials": false,
               "isEncrypted": false,
               "isSigned": false,
-              "hasOpenThreats": false,
-              "threats": []
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "id": "672ac729-a124-4654-b20c-647111d4d18e",
+                  "title": "New LINDDUN threat",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 11,
+                  "score": ""
+                },
+                {
+                  "id": "15171ad0-69bf-4042-9b98-6f07fee3c33f",
+                  "title": "New LINDDUN threat",
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 12,
+                  "score": ""
+                }
+              ]
             }
           }
         ]
@@ -620,6 +724,6 @@
     ],
     "diagramTop": 1,
     "reviewer": "",
-    "threatTop": 0
+    "threatTop": 14
   }
 }
