@@ -48,7 +48,47 @@
               "reasonOutOfScope": "",
               "providesAuthentication": false,
               "hasOpenThreats": false,
-              "threats": []
+              "threats": [
+                {
+                  "id": "8e465d1e-244e-4266-b382-8a8c2fa7d0d7",
+                  "title": "Linkability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 18,
+                  "score": ""
+                },
+                {
+                  "id": "22cfe1b3-c63d-49d7-8a24-5a3c66d0b1e2",
+                  "title": "Identifiability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Identifiability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 19,
+                  "score": ""
+                },
+                {
+                  "id": "fde54f8f-ea26-4ea6-aee4-e39fd0fd3f30",
+                  "title": "Unawareness",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Unawareness",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 20,
+                  "score": ""
+                }
+              ]
             }
           },
           {
@@ -82,7 +122,47 @@
               "reasonOutOfScope": "",
               "providesAuthentication": false,
               "hasOpenThreats": false,
-              "threats": []
+              "threats": [
+                {
+                  "id": "786af99d-64b8-4a22-a870-9fbac096bc59",
+                  "title": "Linkability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 33,
+                  "score": ""
+                },
+                {
+                  "id": "5a2b3648-6cc6-4282-800f-89eceddf7e81",
+                  "title": "Identifiability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Identifiability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 34,
+                  "score": ""
+                },
+                {
+                  "id": "40762ec6-f480-4339-b1b4-e3e3c43ec611",
+                  "title": "Unawareness",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Unawareness",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 35,
+                  "score": ""
+                }
+              ]
             }
           },
           {
@@ -122,7 +202,86 @@
               "isEncrypted": false,
               "isSigned": false,
               "hasOpenThreats": false,
-              "threats": []
+              "threats": [
+                {
+                  "id": "b62642ec-e6c3-436d-a5e1-156699e8fd23",
+                  "title": "Linkability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 36,
+                  "score": ""
+                },
+                {
+                  "id": "12d713c1-30c5-46d2-b88b-d3903e54dcc1",
+                  "title": "Identifiability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Identifiability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 38,
+                  "score": ""
+                },
+                {
+                  "id": "fd92f1dc-5a0c-4539-a3dd-0b15bab2a9e8",
+                  "title": "Non-repudiation",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Non-repudiation",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 39,
+                  "score": ""
+                },
+                {
+                  "id": "cf609c71-da90-4022-bbcd-305923535cf3",
+                  "title": "Detectability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Detectability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 40,
+                  "score": ""
+                },
+                {
+                  "id": "92885a04-44b7-4648-ae1e-e4d1c01aa46c",
+                  "title": "Disclosure of information",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Disclosure of information",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 41,
+                  "score": ""
+                },
+                {
+                  "id": "43e28110-c451-48ac-a679-d015ebd18b68",
+                  "title": "Non-compliance",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Non-compliance",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 42,
+                  "score": ""
+                }
+              ]
             }
           },
           {
@@ -156,7 +315,86 @@
               "reasonOutOfScope": "",
               "privilegeLevel": "",
               "hasOpenThreats": false,
-              "threats": []
+              "threats": [
+                {
+                  "id": "f5170f4a-4b56-4ed5-b6f1-b28d31bccf23",
+                  "title": "Linkability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 21,
+                  "score": ""
+                },
+                {
+                  "id": "17de11d4-0093-4868-8565-c4e3f586fc5d",
+                  "title": "Identifiability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Identifiability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 22,
+                  "score": ""
+                },
+                {
+                  "id": "ba075e2d-c2a2-400d-8de9-01d58f6a8acf",
+                  "title": "Non-repudiation",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Non-repudiation",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 23,
+                  "score": ""
+                },
+                {
+                  "id": "49a1ab96-34fe-4555-a4c3-f3e88a7c4236",
+                  "title": "Detectability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Detectability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 24,
+                  "score": ""
+                },
+                {
+                  "id": "56802905-af7d-4a53-98e7-3576b231fd82",
+                  "title": "Disclosure of information",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Disclosure of information",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 25,
+                  "score": ""
+                },
+                {
+                  "id": "ec382f84-14d4-43cf-b2da-a3e60e372a81",
+                  "title": "Non-compliance",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Non-compliance",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 26,
+                  "score": ""
+                }
+              ]
             }
           },
           {
@@ -190,7 +428,86 @@
               "reasonOutOfScope": "",
               "privilegeLevel": "",
               "hasOpenThreats": false,
-              "threats": []
+              "threats": [
+                {
+                  "id": "3513bfd0-2331-47b1-bb75-a44008959bad",
+                  "title": "Linkability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Linkability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 27,
+                  "score": ""
+                },
+                {
+                  "id": "4cca5467-25c7-46ba-a625-264d5d04b9e8",
+                  "title": "Identifiability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Identifiability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 28,
+                  "score": ""
+                },
+                {
+                  "id": "517b7725-bb6f-4de5-92a2-22a0646efc8c",
+                  "title": "Non-repudiation",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Non-repudiation",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 29,
+                  "score": ""
+                },
+                {
+                  "id": "3082ba08-35ec-4b41-8c27-336c76aa66f5",
+                  "title": "Detectability",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Detectability",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 30,
+                  "score": ""
+                },
+                {
+                  "id": "1761d224-9c59-428e-aefb-e92e73a8f0a9",
+                  "title": "Disclosure of information",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Disclosure of information",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 31,
+                  "score": ""
+                },
+                {
+                  "id": "c1243bd9-d1de-498c-bfd3-3353160fe521",
+                  "title": "Non-compliance",
+                  "status": "NotApplicable",
+                  "severity": "Medium",
+                  "type": "Non-compliance",
+                  "description": "Provide a description for this threat",
+                  "mitigation": "Provide remediation for this threat or a reason if status is N/A",
+                  "modelType": "LINDDUN",
+                  "new": false,
+                  "number": 32,
+                  "score": ""
+                }
+              ]
             }
           },
           {
@@ -624,6 +941,6 @@
     ],
     "diagramTop": 1,
     "reviewer": "",
-    "threatTop": 17
+    "threatTop": 42
   }
 }
